@@ -37,5 +37,9 @@ Now, as a frontend developer, that deep technical perspective shapes everything 
 
 I’m currently deepening my expertise in **JavaScript**, **TypeScript**, and **React**, keeping up with modern frontend practices. I'm actively looking for a team where I can bring both a creative eye and the technical depth that comes from understanding how things work all the way down the stack.
 
+### Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loredana-kita-ab7a803b5)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorikita27@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/loredanakita)
 ---
 ⭐️ *From understanding memory in Delphi/C++ to crafting pixel-perfect React components.*
